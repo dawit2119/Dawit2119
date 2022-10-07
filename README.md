@@ -9,6 +9,5 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Dawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawit2119)](https://github.com/anuraghazra/github-readme-stats)
-
+![Dawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawit2119&show_icons=true&theme=radical)
 </details>
