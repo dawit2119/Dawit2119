@@ -1,7 +1,7 @@
-Hi there, I'm Dawit Teklu 👋
-🎓 Graduated with great distinction in Software Engineering from Addis Ababa Institute of Technology, 2023.
+Hi there, I'm Abrham Teklu 👋
+🎓 Graduated with great distinction in Software Engineering from Addis Ababa Institute of Technology, 2019.
 
-💼 Experienced in Flutter, React.js, Angular, Django, .NET, and Node.js.
+💼 Experienced in Flutter, React.js, Angular, Django, .NET, and Node.js(Express | NestJs).
 
 🤖 Passionate about Machine Learning and Artificial Intelligence.
 
